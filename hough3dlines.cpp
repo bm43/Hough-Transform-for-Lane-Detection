@@ -1,8 +1,3 @@
-// // License: see LICENSE-BSD2 (for all header files as well)
-// implementation of: Iterative Hough Transform for Line Detection in 3D Point Clouds
-// citation: Christoph Dalitz, Tilman Schramke, Manuel Jeltsch
-
-
 #include "vector3d.h"
 #include "pointcloud.h"
 #include "hough.h"
